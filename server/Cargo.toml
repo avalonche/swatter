@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "program/token",
+  "program/token-swap",
+  "program/solgsn",
+]
